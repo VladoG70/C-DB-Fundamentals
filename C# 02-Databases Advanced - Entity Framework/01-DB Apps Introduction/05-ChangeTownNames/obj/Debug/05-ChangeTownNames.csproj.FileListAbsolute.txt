@@ -1,0 +1,6 @@
+D:\My_Documents-HDD\LEARN_SOFTWARE\SoftUNI\08-C# Databases Advanced - Entity Framework - February 2017\00-Exercises\01-DB Apps Introduction\05-ChangeTownNames\bin\Debug\05-ChangeTownNames.exe.config
+D:\My_Documents-HDD\LEARN_SOFTWARE\SoftUNI\08-C# Databases Advanced - Entity Framework - February 2017\00-Exercises\01-DB Apps Introduction\05-ChangeTownNames\bin\Debug\05-ChangeTownNames.exe
+D:\My_Documents-HDD\LEARN_SOFTWARE\SoftUNI\08-C# Databases Advanced - Entity Framework - February 2017\00-Exercises\01-DB Apps Introduction\05-ChangeTownNames\bin\Debug\05-ChangeTownNames.pdb
+D:\My_Documents-HDD\LEARN_SOFTWARE\SoftUNI\08-C# Databases Advanced - Entity Framework - February 2017\00-Exercises\01-DB Apps Introduction\05-ChangeTownNames\obj\Debug\05-ChangeTownNames.csprojResolveAssemblyReference.cache
+D:\My_Documents-HDD\LEARN_SOFTWARE\SoftUNI\08-C# Databases Advanced - Entity Framework - February 2017\00-Exercises\01-DB Apps Introduction\05-ChangeTownNames\obj\Debug\05-ChangeTownNames.exe
+D:\My_Documents-HDD\LEARN_SOFTWARE\SoftUNI\08-C# Databases Advanced - Entity Framework - February 2017\00-Exercises\01-DB Apps Introduction\05-ChangeTownNames\obj\Debug\05-ChangeTownNames.pdb

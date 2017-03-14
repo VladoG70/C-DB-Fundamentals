@@ -1,0 +1,6 @@
+D:\My_Documents-HDD\LEARN_SOFTWARE\SoftUNI\08-C# Databases Advanced - Entity Framework - February 2017\00-Exercises\01-DB Apps Introduction\07-PrintAllMinionN\bin\Debug\07-PrintAllMinionN.exe.config
+D:\My_Documents-HDD\LEARN_SOFTWARE\SoftUNI\08-C# Databases Advanced - Entity Framework - February 2017\00-Exercises\01-DB Apps Introduction\07-PrintAllMinionN\bin\Debug\07-PrintAllMinionN.exe
+D:\My_Documents-HDD\LEARN_SOFTWARE\SoftUNI\08-C# Databases Advanced - Entity Framework - February 2017\00-Exercises\01-DB Apps Introduction\07-PrintAllMinionN\bin\Debug\07-PrintAllMinionN.pdb
+D:\My_Documents-HDD\LEARN_SOFTWARE\SoftUNI\08-C# Databases Advanced - Entity Framework - February 2017\00-Exercises\01-DB Apps Introduction\07-PrintAllMinionN\obj\Debug\07-PrintAllMinionNames.csprojResolveAssemblyReference.cache
+D:\My_Documents-HDD\LEARN_SOFTWARE\SoftUNI\08-C# Databases Advanced - Entity Framework - February 2017\00-Exercises\01-DB Apps Introduction\07-PrintAllMinionN\obj\Debug\07-PrintAllMinionN.exe
+D:\My_Documents-HDD\LEARN_SOFTWARE\SoftUNI\08-C# Databases Advanced - Entity Framework - February 2017\00-Exercises\01-DB Apps Introduction\07-PrintAllMinionN\obj\Debug\07-PrintAllMinionN.pdb

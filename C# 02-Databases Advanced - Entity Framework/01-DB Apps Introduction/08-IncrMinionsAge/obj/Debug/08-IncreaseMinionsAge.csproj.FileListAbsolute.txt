@@ -1,0 +1,6 @@
+D:\My_Documents-HDD\LEARN_SOFTWARE\SoftUNI\08-C# Databases Advanced - Entity Framework - February 2017\00-Exercises\01-DB Apps Introduction\08-IncrMinionsAge\bin\Debug\08-IncrMinionsAge.exe.config
+D:\My_Documents-HDD\LEARN_SOFTWARE\SoftUNI\08-C# Databases Advanced - Entity Framework - February 2017\00-Exercises\01-DB Apps Introduction\08-IncrMinionsAge\bin\Debug\08-IncrMinionsAge.exe
+D:\My_Documents-HDD\LEARN_SOFTWARE\SoftUNI\08-C# Databases Advanced - Entity Framework - February 2017\00-Exercises\01-DB Apps Introduction\08-IncrMinionsAge\bin\Debug\08-IncrMinionsAge.pdb
+D:\My_Documents-HDD\LEARN_SOFTWARE\SoftUNI\08-C# Databases Advanced - Entity Framework - February 2017\00-Exercises\01-DB Apps Introduction\08-IncrMinionsAge\obj\Debug\08-IncreaseMinionsAge.csprojResolveAssemblyReference.cache
+D:\My_Documents-HDD\LEARN_SOFTWARE\SoftUNI\08-C# Databases Advanced - Entity Framework - February 2017\00-Exercises\01-DB Apps Introduction\08-IncrMinionsAge\obj\Debug\08-IncrMinionsAge.exe
+D:\My_Documents-HDD\LEARN_SOFTWARE\SoftUNI\08-C# Databases Advanced - Entity Framework - February 2017\00-Exercises\01-DB Apps Introduction\08-IncrMinionsAge\obj\Debug\08-IncrMinionsAge.pdb

@@ -1,0 +1,5 @@
+D:\My_Documents-HDD\LEARN_SOFTWARE\SoftUNI\08-C# Databases Advanced - Entity Framework - February 2017\00-Exercises\01-DB Apps Introduction\02-GetVillainNames\bin\Debug\02-GetVillainNames.exe.config
+D:\My_Documents-HDD\LEARN_SOFTWARE\SoftUNI\08-C# Databases Advanced - Entity Framework - February 2017\00-Exercises\01-DB Apps Introduction\02-GetVillainNames\bin\Debug\02-GetVillainNames.exe
+D:\My_Documents-HDD\LEARN_SOFTWARE\SoftUNI\08-C# Databases Advanced - Entity Framework - February 2017\00-Exercises\01-DB Apps Introduction\02-GetVillainNames\bin\Debug\02-GetVillainNames.pdb
+D:\My_Documents-HDD\LEARN_SOFTWARE\SoftUNI\08-C# Databases Advanced - Entity Framework - February 2017\00-Exercises\01-DB Apps Introduction\02-GetVillainNames\obj\Debug\02-GetVillainNames.exe
+D:\My_Documents-HDD\LEARN_SOFTWARE\SoftUNI\08-C# Databases Advanced - Entity Framework - February 2017\00-Exercises\01-DB Apps Introduction\02-GetVillainNames\obj\Debug\02-GetVillainNames.pdb
